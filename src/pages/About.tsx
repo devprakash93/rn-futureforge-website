@@ -33,7 +33,12 @@ export default function AboutPage() {
       />
 
       {/* Page Hero */}
-      <div className="relative bg-[#0B1F3A] pt-32 pb-20">
+      <div className="relative pt-32 pb-20">
+        <div 
+          className="absolute inset-0 bg-cover bg-center bg-no-repeat"
+          style={{ backgroundImage: 'url(/images/about.png)' }}
+        />
+        <div className="absolute inset-0 bg-[#0B1F3A]/85" />
         <div
           className="absolute inset-0 opacity-[0.04]"
           style={{

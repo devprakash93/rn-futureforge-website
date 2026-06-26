@@ -84,7 +84,15 @@ export default function ServiceDetailPage() {
       />
 
       {/* Hero */}
-      <div className={`relative bg-gradient-to-br ${gradClass} pt-32 pb-24 overflow-hidden`}>
+      <div className={`relative pt-32 pb-24 overflow-hidden`}>
+        {/* Background Image */}
+        <div 
+          className="absolute inset-0 bg-cover bg-center bg-no-repeat"
+          style={{ backgroundImage: `url(/images/${service.slug}.png)` }}
+        />
+        {/* Overlay */}
+        <div className={`absolute inset-0 bg-gradient-to-r ${gradClass} opacity-90`} />
+        
         <div className="absolute inset-0 opacity-[0.04]" style={{
           backgroundImage: 'linear-gradient(rgba(255,255,255,0.3) 1px, transparent 1px), linear-gradient(90deg, rgba(255,255,255,0.3) 1px, transparent 1px)',
           backgroundSize: '60px 60px'
