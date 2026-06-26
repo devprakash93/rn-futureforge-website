@@ -1,0 +1,249 @@
+[
+  {
+    "id": "plumbing-systems",
+    "slug": "plumbing-systems",
+    "title": "Plumbing Systems",
+    "shortTitle": "Plumbing",
+    "tagline": "Precision Water Solutions for Every Structure",
+    "description": "We design, supply, and install complete plumbing systems for commercial, residential, industrial, and institutional buildings — engineered for reliability, efficiency, and long-term performance.",
+    "icon": "Droplets",
+    "color": "#0B1F3A",
+    "heroImage": "/images/services/plumbing-hero.jpg",
+    "overview": "Our plumbing engineering team delivers comprehensive water supply and distribution solutions adhering to IS codes and NBC 2016 guidelines. From high-rise residential towers to large-scale commercial complexes and industrial facilities, we ensure every drop of water reaches where it needs to — safely, efficiently, and sustainably.",
+    "subServices": [
+      {
+        "id": 1,
+        "title": "Water Supply Systems",
+        "description": "Complete cold and hot water supply network design and installation including overhead tanks, underground reservoirs, water treatment units, and distribution piping.",
+        "icon": "Waves"
+      },
+      {
+        "id": 2,
+        "title": "Internal Plumbing",
+        "description": "Full internal plumbing works including concealed piping, fixtures installation (sanitary ware, taps, valves), water meters, and bathroom fittings for all types of buildings.",
+        "icon": "PipeLine"
+      },
+      {
+        "id": 3,
+        "title": "Pumping Systems",
+        "description": "Design and installation of booster pump sets, pressure vessels, variable frequency drives (VFDs), and automated pump control panels for optimized water pressure.",
+        "icon": "Gauge"
+      },
+      {
+        "id": 4,
+        "title": "Utility Infrastructure",
+        "description": "External water supply mains, utility ducts, valve chambers, water filtration systems, water softeners, and connection to municipal/borewell supply lines.",
+        "icon": "Network"
+      }
+    ],
+    "benefits": [
+      "NBC 2016 & IS 1172 compliant design",
+      "Leak-proof CPVC and SS piping systems",
+      "Water-efficient fixture selection",
+      "Pressure-optimized distribution networks",
+      "Reduced water wastage by up to 30%",
+      "Complete AutoCAD drawing package"
+    ],
+    "process": [
+      { "step": 1, "title": "Load Calculation", "description": "Accurate peak demand and daily consumption calculations based on occupancy and building type." },
+      { "step": 2, "title": "System Design", "description": "Detailed schematic and layout drawings for entire water supply network." },
+      { "step": 3, "title": "Material Selection", "description": "Specification of IS-marked, brand-approved pipes, fittings, valves, and fixtures." },
+      { "step": 4, "title": "Installation", "description": "Skilled plumbers execute concealed and exposed piping as per approved drawings." },
+      { "step": 5, "title": "Pressure Testing", "description": "Hydraulic pressure testing at 1.5x working pressure to ensure zero leakage." },
+      { "step": 6, "title": "Handover", "description": "System commissioning, O&M manual, and as-built drawing submission." }
+    ],
+    "faqs": [
+      {
+        "id": 1,
+        "question": "What pipe materials do you use for plumbing systems?",
+        "answer": "We use IS-marked CPVC pipes for hot water, UPVC for cold water lines, and stainless steel or GI pipes for special applications — all selected based on the project requirements and IS code recommendations."
+      },
+      {
+        "id": 2,
+        "question": "Do you handle plumbing for high-rise buildings?",
+        "answer": "Yes. We specialize in high-rise plumbing including pressure-zone design, booster pump stations, and pressure-reducing valves (PRVs) for buildings up to G+20 floors and beyond."
+      },
+      {
+        "id": 3,
+        "question": "Can you provide AutoCAD drawings for plumbing layouts?",
+        "answer": "Absolutely. We provide complete AutoCAD 2D drawings and, where required, 3D BIM models for all plumbing works as part of our standard deliverables."
+      },
+      {
+        "id": 4,
+        "question": "Do you provide AMC (Annual Maintenance Contract) after installation?",
+        "answer": "Yes, we offer comprehensive AMC packages for all plumbing systems we install, including preventive maintenance, emergency response, and system performance audits."
+      },
+      {
+        "id": 5,
+        "question": "What standards do you follow for plumbing design?",
+        "answer": "We strictly follow NBC 2016 (National Building Code), IS 1172 (water consumption standards), IS 2065 (code of practice for water supply in buildings), and CPWD specifications."
+      }
+    ]
+  },
+  {
+    "id": "sanitation-drainage",
+    "slug": "sanitation-drainage",
+    "title": "Sanitation & Drainage",
+    "shortTitle": "Sanitation",
+    "tagline": "Clean, Safe, and Efficient Waste Management Systems",
+    "description": "We engineer and install complete sanitation, drainage, and wastewater management systems that ensure hygiene, compliance, and environmental responsibility for all building types.",
+    "icon": "FlaskConical",
+    "color": "#1A4A7A",
+    "heroImage": "/images/services/sanitation-hero.jpg",
+    "overview": "Sanitation and drainage are critical to the health and functionality of any built environment. Our team designs and installs soil, waste, and vent piping systems, stormwater drainage networks, STP connections, and rainwater harvesting systems — all engineered for zero blockages, odour-free operation, and long-term reliability.",
+    "subServices": [
+      {
+        "id": 1,
+        "title": "Drainage Networks",
+        "description": "Design and installation of internal soil and waste piping, venting systems, gully traps, inspection chambers, and drainage connection to municipal mains.",
+        "icon": "ArrowDown"
+      },
+      {
+        "id": 2,
+        "title": "Sewer Systems",
+        "description": "External sewer line design, manhole installation, sewage pumping stations, and gravity/pressure sewer mains for large campuses and industrial facilities.",
+        "icon": "Layers"
+      },
+      {
+        "id": 3,
+        "title": "Wastewater Management",
+        "description": "Design and tie-in to Sewage Treatment Plants (STPs), grey water recycling systems, and treated water reuse for flushing and irrigation.",
+        "icon": "Recycle"
+      },
+      {
+        "id": 4,
+        "title": "Rainwater Drainage",
+        "description": "Roof drain design, stormwater collection networks, retention pits, and rainwater harvesting systems compliant with Odisha PCB and municipal norms.",
+        "icon": "CloudRain"
+      }
+    ],
+    "benefits": [
+      "IS 1742 & IS 3989 compliant installations",
+      "Odour-free dual pipe drainage systems",
+      "Clog-resistant pipe sizing and gradients",
+      "STP connection and treated water reuse",
+      "Rainwater harvesting compliance",
+      "CPWD and local body specifications"
+    ],
+    "process": [
+      { "step": 1, "title": "Survey & Assessment", "description": "Topographic survey, invert level survey, and assessment of existing drainage infrastructure." },
+      { "step": 2, "title": "Drainage Design", "description": "Hydraulic design of soil, waste, vent, and stormwater systems with gradient calculations." },
+      { "step": 3, "title": "Approval Drawings", "description": "Preparation of statutory drawings for municipal/authority approval and NOCs." },
+      { "step": 4, "title": "Excavation & Laying", "description": "Controlled excavation, pipe bedding, and laying of drainage pipes at designed gradients." },
+      { "step": 5, "title": "Testing", "description": "Smoke testing, water testing, and CCTV inspection of drain lines for defect-free installation." },
+      { "step": 6, "title": "Backfilling & Commissioning", "description": "Compacted backfilling, chamber construction, and final commissioning with handover documents." }
+    ],
+    "faqs": [
+      {
+        "id": 1,
+        "question": "What pipe material do you use for drainage systems?",
+        "answer": "We primarily use SWR (Soil Waste & Rainwater) UPVC pipes and fittings conforming to IS 13592, and CI/DI pipes for heavy-duty external drainage applications."
+      },
+      {
+        "id": 2,
+        "question": "Can you connect our building drainage to the local STP?",
+        "answer": "Yes. We design and install complete connections from building drainage networks to STPs including sewage pumping stations, rising mains, and gravity flow lines."
+      },
+      {
+        "id": 3,
+        "question": "Do you handle rainwater harvesting systems?",
+        "answer": "Absolutely. We design and install complete rainwater harvesting systems including roof drain collection, filtration, storage tanks, and groundwater recharge pits as per CGWB guidelines."
+      },
+      {
+        "id": 4,
+        "question": "How do you prevent drainage blockages in commercial buildings?",
+        "answer": "We design systems with correctly sized pipes, adequate gradients, accessible clean-out points, grease traps for kitchens, and hair traps for bathrooms — all per IS code recommendations."
+      }
+    ]
+  },
+  {
+    "id": "fire-fighting-systems",
+    "slug": "fire-fighting-systems",
+    "title": "Fire Fighting Systems",
+    "shortTitle": "Fire Safety",
+    "tagline": "Protecting Lives and Property with Precision Fire Safety Engineering",
+    "description": "We design, supply, install, and commission complete fire protection systems that meet NBC 2016, TAC, and local fire authority norms — safeguarding lives, assets, and infrastructure.",
+    "icon": "Flame",
+    "color": "#C0392B",
+    "heroImage": "/images/services/firefighting-hero.jpg",
+    "overview": "Fire safety is a matter of life. Our certified fire protection engineers design and install complete active fire fighting systems — from fire hydrant networks and automatic sprinkler systems to fire detection and alarm panels. Every system we deliver is rigorously tested, TAC-approved, and compliant with NBC 2016 and IS 13039 standards.",
+    "subServices": [
+      {
+        "id": 1,
+        "title": "Fire Hydrant Systems",
+        "description": "Internal and external fire hydrant networks including underground and terrace ring mains, landing valves, hose boxes, and fire brigade inlets as per IS 3844.",
+        "icon": "Flame"
+      },
+      {
+        "id": 2,
+        "title": "Automatic Sprinkler Systems",
+        "description": "Wet pipe, dry pipe, and deluge sprinkler systems designed per IS 15105 and NFPA 13 standards for commercial, industrial, and institutional occupancies.",
+        "icon": "Droplets"
+      },
+      {
+        "id": 3,
+        "title": "Fire Pumps & Pumphouse",
+        "description": "Design and installation of main fire pumps, jockey pumps, diesel backup pumps, fire water storage tanks, and pump control panels per NBC 2016 requirements.",
+        "icon": "Zap"
+      },
+      {
+        "id": 4,
+        "title": "Fire Detection & Alarm Systems",
+        "description": "Addressable and conventional fire alarm panels, smoke detectors, heat detectors, manual call points, and PA systems for complete early-warning fire detection.",
+        "icon": "Bell"
+      }
+    ],
+    "benefits": [
+      "NBC 2016 & TAC compliant designs",
+      "IS 3844 & IS 15105 certified installations",
+      "Fire NOC documentation assistance",
+      "Diesel backup for uninterrupted operation",
+      "Annual maintenance and testing contracts",
+      "Qualified Fire Protection Engineers on staff"
+    ],
+    "process": [
+      { "step": 1, "title": "Fire Risk Assessment", "description": "Occupancy classification, hazard assessment, and fire load analysis per NBC 2016." },
+      { "step": 2, "title": "System Design", "description": "Hydraulic calculation, pipe sizing, sprinkler head layout, and fire pump selection." },
+      { "step": 3, "title": "Authority Approval", "description": "Submission of drawings and documents to Chief Fire Officer (CFO) for approval." },
+      { "step": 4, "title": "Installation", "description": "Skilled teams execute piping, equipment installation, and wiring as per approved design." },
+      { "step": 5, "title": "Testing & Inspection", "description": "Full system functional test witnessed by fire authority for NOC issuance." },
+      { "step": 6, "title": "Handover & Training", "description": "Formal handover, occupant training, O&M manuals, and AMC agreement." }
+    ],
+    "safetyStandards": [
+      "National Building Code 2016 (NBC)",
+      "IS 3844 — Installation of Internal Fire Hydrant",
+      "IS 15105 — Design & Installation of Sprinklers",
+      "IS 13039 — Fire Detection & Alarm",
+      "Tariff Advisory Committee (TAC) Standards",
+      "NFPA 13, NFPA 72 Reference Standards",
+      "Odisha Fire Service Act Compliance"
+    ],
+    "faqs": [
+      {
+        "id": 1,
+        "question": "What is the difference between a wet and dry sprinkler system?",
+        "answer": "A wet pipe sprinkler system has water pressurized in the pipes at all times, activating immediately upon heat detection. A dry pipe system uses pressurized air or nitrogen, ideal for areas prone to freezing. We recommend the appropriate type based on your building's occupancy and climate."
+      },
+      {
+        "id": 2,
+        "question": "Do you assist in obtaining the Fire NOC?",
+        "answer": "Yes. We prepare all required documents, drawings, and hydraulic calculations for submission to the Chief Fire Officer and coordinate the site inspection for NOC issuance."
+      },
+      {
+        "id": 3,
+        "question": "How often should fire fighting systems be tested and maintained?",
+        "answer": "As per NBC 2016 and fire authority norms, fire hydrant systems should be tested quarterly, sprinkler systems semi-annually, and fire alarms annually. We offer comprehensive AMC packages covering all these requirements."
+      },
+      {
+        "id": 4,
+        "question": "Is a diesel backup fire pump mandatory?",
+        "answer": "Yes, for most commercial and high-rise buildings, NBC 2016 mandates a diesel engine-driven backup fire pump in addition to the electric main pump, to ensure operation during power failures."
+      },
+      {
+        "id": 5,
+        "question": "Can you retrofit fire fighting systems in existing buildings?",
+        "answer": "Absolutely. We have extensive experience in retrofitting and upgrading fire protection systems in existing buildings, including high-rises, hospitals, and industrial plants, with minimal disruption to ongoing operations."
+      }
+    ]
+  }
+]

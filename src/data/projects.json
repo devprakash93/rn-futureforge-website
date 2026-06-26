@@ -1,0 +1,189 @@
+[
+  {
+    "id": 1,
+    "slug": "aiims-bhubaneswar-mep-works",
+    "title": "AIIMS Bhubaneswar — MEP Works",
+    "client": "All India Institute of Medical Sciences",
+    "category": "Institutional",
+    "location": "Bhubaneswar, Odisha",
+    "description": "Complete plumbing, sanitation, and fire fighting system installation for the 960-bed super-specialty hospital. Works included hot and cold water supply for all departments, OT-grade plumbing for operation theaters, hospital-grade drainage with STP connections, and fully addressable fire detection and sprinkler systems across all floors.",
+    "completionDate": "2022",
+    "value": "₹4.2 Crore",
+    "area": "1,20,000 sq.ft.",
+    "featured": true,
+    "image": "/images/projects/aiims-bhubaneswar.jpg",
+    "gallery": [
+      "/images/projects/aiims-1.jpg",
+      "/images/projects/aiims-2.jpg",
+      "/images/projects/aiims-3.jpg"
+    ],
+    "tags": ["Plumbing", "Sanitation", "Fire Fighting", "Institutional"]
+  },
+  {
+    "id": 2,
+    "slug": "idco-tower-cuttack",
+    "title": "IDCO Tower — Plumbing & Fire Systems",
+    "client": "Industrial Development Corporation of Odisha",
+    "category": "Commercial",
+    "location": "Cuttack, Odisha",
+    "description": "Design and installation of complete plumbing and fire protection systems for the 18-storey IDCO commercial tower. The scope included pressure-zone water supply, energy-efficient VFD pump systems, fire hydrant and sprinkler networks with rooftop pump house, and addressable fire alarm systems.",
+    "completionDate": "2023",
+    "value": "₹2.8 Crore",
+    "area": "85,000 sq.ft.",
+    "featured": true,
+    "image": "/images/projects/idco-tower.jpg",
+    "gallery": [
+      "/images/projects/idco-1.jpg",
+      "/images/projects/idco-2.jpg"
+    ],
+    "tags": ["Plumbing", "Fire Fighting", "Commercial", "High-Rise"]
+  },
+  {
+    "id": 3,
+    "slug": "odisha-secretariat-upgradation",
+    "title": "Odisha Secretariat — Plumbing Upgradation",
+    "client": "Public Works Department, Govt. of Odisha",
+    "category": "Government",
+    "location": "Bhubaneswar, Odisha",
+    "description": "Complete upgradation of the existing plumbing infrastructure of the Odisha Secretariat complex including replacement of old CI pipes with CPVC/UPVC systems, new sanitary fixtures, water treatment plant upgrade, and installation of automated pump control systems.",
+    "completionDate": "2021",
+    "value": "₹1.5 Crore",
+    "area": "60,000 sq.ft.",
+    "featured": true,
+    "image": "/images/projects/odisha-secretariat.jpg",
+    "gallery": [
+      "/images/projects/secretariat-1.jpg",
+      "/images/projects/secretariat-2.jpg"
+    ],
+    "tags": ["Plumbing", "Government", "Renovation"]
+  },
+  {
+    "id": 4,
+    "slug": "brigade-township-bhubaneswar",
+    "title": "Brigade Gateway Township",
+    "client": "Brigade Enterprises Ltd.",
+    "category": "Residential",
+    "location": "Bhubaneswar, Odisha",
+    "description": "Complete MEP works for a 500-unit residential township comprising G+14 towers. Scope included design and installation of water supply with underground sump and overhead tank, internal plumbing for all apartments, stormwater and sanitary drainage network, STP connection, and fire hydrant systems for entire campus.",
+    "completionDate": "2023",
+    "value": "₹5.6 Crore",
+    "area": "3,50,000 sq.ft.",
+    "featured": true,
+    "image": "/images/projects/brigade-township.jpg",
+    "gallery": [
+      "/images/projects/brigade-1.jpg",
+      "/images/projects/brigade-2.jpg",
+      "/images/projects/brigade-3.jpg"
+    ],
+    "tags": ["Plumbing", "Sanitation", "Fire Fighting", "Residential", "Township"]
+  },
+  {
+    "id": 5,
+    "slug": "infosys-campus-bhubaneswar",
+    "title": "Infosys Technology Campus",
+    "client": "Infosys Limited",
+    "category": "Commercial",
+    "location": "Infosys City, Bhubaneswar",
+    "description": "MEP works for a 5-lakh sq.ft. IT campus including complete water supply systems, sanitation drainage, sewage treatment plant connections, rainwater harvesting systems, and comprehensive fire protection including sprinklers, hydrants, and addressable fire alarm systems across all buildings.",
+    "completionDate": "2020",
+    "value": "₹7.2 Crore",
+    "area": "5,00,000 sq.ft.",
+    "featured": false,
+    "image": "/images/projects/infosys-campus.jpg",
+    "gallery": [
+      "/images/projects/infosys-1.jpg",
+      "/images/projects/infosys-2.jpg"
+    ],
+    "tags": ["Plumbing", "Sanitation", "Fire Fighting", "Commercial", "IT Campus"]
+  },
+  {
+    "id": 6,
+    "slug": "kalinga-hospital-fire-system",
+    "title": "Kalinga Hospital — Fire Protection Upgrade",
+    "client": "Kalinga Institute of Medical Sciences",
+    "category": "Institutional",
+    "location": "Bhubaneswar, Odisha",
+    "description": "Retrofit and upgrading of fire protection systems for the 650-bed multi-specialty hospital. Works included new addressable fire detection and alarm system, automatic sprinkler installation in high-risk zones, fire hydrant network upgrade, and commissioning with Fire NOC.",
+    "completionDate": "2022",
+    "value": "₹1.8 Crore",
+    "area": "95,000 sq.ft.",
+    "featured": false,
+    "image": "/images/projects/kalinga-hospital.jpg",
+    "gallery": [
+      "/images/projects/kalinga-1.jpg"
+    ],
+    "tags": ["Fire Fighting", "Institutional", "Retrofit", "Hospital"]
+  },
+  {
+    "id": 7,
+    "slug": "tata-steel-plant-sanitation",
+    "title": "Tata Steel Plant — Sanitation & Drainage",
+    "client": "Tata Steel Limited",
+    "category": "Industrial",
+    "location": "Jamshedpur, Jharkhand",
+    "description": "Design and installation of comprehensive industrial sanitation and drainage systems for a steel plant expansion project. Scope included acid-resistant drainage piping, large-diameter underground sewer mains, oil and water separators, and effluent treatment plant connections.",
+    "completionDate": "2021",
+    "value": "₹3.4 Crore",
+    "area": "Industrial Zone",
+    "featured": false,
+    "image": "/images/projects/tata-steel.jpg",
+    "gallery": [
+      "/images/projects/tata-steel-1.jpg"
+    ],
+    "tags": ["Sanitation", "Industrial", "Drainage"]
+  },
+  {
+    "id": 8,
+    "slug": "bhubaneswar-smart-city-drainage",
+    "title": "Bhubaneswar Smart City — Storm Drainage",
+    "client": "Bhubaneswar Smart City Ltd. (BSCL)",
+    "category": "Infrastructure",
+    "location": "Bhubaneswar, Odisha",
+    "description": "Stormwater drainage network for multiple zones under the Bhubaneswar Smart City project, including installation of RCC drainage channels, HDPE stormwater pipes, retention ponds, and integration with existing municipal drainage system.",
+    "completionDate": "2022",
+    "value": "₹2.1 Crore",
+    "area": "12 km network",
+    "featured": false,
+    "image": "/images/projects/smart-city.jpg",
+    "gallery": [
+      "/images/projects/smart-city-1.jpg"
+    ],
+    "tags": ["Sanitation", "Infrastructure", "Government", "Smart City"]
+  },
+  {
+    "id": 9,
+    "slug": "hotel-mayfair-mep",
+    "title": "Hotel Mayfair — Complete MEP Works",
+    "client": "Mayfair Hotels & Resorts",
+    "category": "Hospitality",
+    "location": "Puri, Odisha",
+    "description": "Complete MEP engineering works for a 5-star beach resort including hot and cold water supply for all rooms and service areas, SPA water systems, laundry plumbing, fire protection systems, and sewage treatment with treated water reuse for landscaping irrigation.",
+    "completionDate": "2019",
+    "value": "₹2.9 Crore",
+    "area": "1,10,000 sq.ft.",
+    "featured": false,
+    "image": "/images/projects/hotel-mayfair.jpg",
+    "gallery": [
+      "/images/projects/mayfair-1.jpg"
+    ],
+    "tags": ["Plumbing", "Sanitation", "Fire Fighting", "Hospitality"]
+  },
+  {
+    "id": 10,
+    "slug": "centurion-university-mep",
+    "title": "Centurion University Campus",
+    "client": "Centurion University of Technology and Management",
+    "category": "Institutional",
+    "location": "Bhubaneswar, Odisha",
+    "description": "MEP works for a large university campus spanning multiple academic blocks, hostels, and administrative buildings. Scope included complete plumbing works, underground drainage network, rainwater harvesting, solar water heaters, and comprehensive fire fighting systems with Fire NOC.",
+    "completionDate": "2023",
+    "value": "₹4.7 Crore",
+    "area": "4,20,000 sq.ft.",
+    "featured": false,
+    "image": "/images/projects/centurion-university.jpg",
+    "gallery": [
+      "/images/projects/centurion-1.jpg"
+    ],
+    "tags": ["Plumbing", "Sanitation", "Fire Fighting", "Institutional", "Campus"]
+  }
+]

@@ -1,0 +1,86 @@
+[
+  {
+    "id": 1,
+    "name": "Odisha Industrial Development Corporation (IDCO)",
+    "category": "Government",
+    "logo": "/images/clients/idco.png",
+    "website": "https://idco.nic.in"
+  },
+  {
+    "id": 2,
+    "name": "Public Works Department, Govt. of Odisha",
+    "category": "Government",
+    "logo": "/images/clients/pwd-odisha.png",
+    "website": ""
+  },
+  {
+    "id": 3,
+    "name": "Bhubaneswar Smart City Ltd.",
+    "category": "Government",
+    "logo": "/images/clients/bscl.png",
+    "website": ""
+  },
+  {
+    "id": 4,
+    "name": "OHPC (Odisha Hydro Power Corporation)",
+    "category": "Government",
+    "logo": "/images/clients/ohpc.png",
+    "website": ""
+  },
+  {
+    "id": 5,
+    "name": "AIIMS Bhubaneswar",
+    "category": "Institutional",
+    "logo": "/images/clients/aiims.png",
+    "website": "https://aiimsbhubaneswar.nic.in"
+  },
+  {
+    "id": 6,
+    "name": "Centurion University",
+    "category": "Institutional",
+    "logo": "/images/clients/centurion.png",
+    "website": "https://cutm.ac.in"
+  },
+  {
+    "id": 7,
+    "name": "Kalinga Institute of Medical Sciences (KIMS)",
+    "category": "Institutional",
+    "logo": "/images/clients/kims.png",
+    "website": ""
+  },
+  {
+    "id": 8,
+    "name": "Infosys Limited",
+    "category": "Corporate",
+    "logo": "/images/clients/infosys.png",
+    "website": "https://infosys.com"
+  },
+  {
+    "id": 9,
+    "name": "Tata Steel Limited",
+    "category": "Corporate",
+    "logo": "/images/clients/tata-steel.png",
+    "website": "https://tatasteel.com"
+  },
+  {
+    "id": 10,
+    "name": "Brigade Enterprises",
+    "category": "Corporate",
+    "logo": "/images/clients/brigade.png",
+    "website": "https://brigadegroup.com"
+  },
+  {
+    "id": 11,
+    "name": "Mayfair Hotels & Resorts",
+    "category": "Hospitality",
+    "logo": "/images/clients/mayfair.png",
+    "website": "https://mayfairhotels.com"
+  },
+  {
+    "id": 12,
+    "name": "NALCO (National Aluminium Company)",
+    "category": "Corporate",
+    "logo": "/images/clients/nalco.png",
+    "website": "https://nalcoindia.com"
+  }
+]

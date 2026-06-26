@@ -1,0 +1,24 @@
+{
+  "name": "RN FUTUREFORGE Engineering",
+  "short_name": "RN FUTUREFORGE",
+  "description": "Premier MEP Engineering company in Bhubaneswar, Odisha — Plumbing, Sanitation & Fire Fighting Systems.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#0B1F3A",
+  "theme_color": "#0B1F3A",
+  "orientation": "any",
+  "lang": "en-IN",
+  "scope": "/",
+  "categories": ["business", "engineering", "construction"],
+  "icons": [
+    {
+      "src": "/favicon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ],
+  "screenshots": [],
+  "related_applications": [],
+  "prefer_related_applications": false
+}

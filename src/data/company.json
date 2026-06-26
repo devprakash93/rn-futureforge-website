@@ -1,0 +1,223 @@
+{
+  "name": "RN FUTUREFORGE Engineering Pvt. Ltd.",
+  "shortName": "RN FUTUREFORGE",
+  "tagline": "Engineering Excellence, Built to Last",
+  "subTagline": "Precision MEP Engineering Solutions for Modern Infrastructure",
+  "description": "RN FUTUREFORGE Engineering Pvt. Ltd. is a premier MEP engineering company headquartered in Bhubaneswar, Odisha. We specialize in designing, supplying, and executing world-class Plumbing Systems, Sanitation & Drainage, and Fire Fighting Systems for a diverse range of projects across commercial, residential, industrial, institutional, and infrastructure sectors.",
+  "founded": "2012",
+  "city": "Bhubaneswar",
+  "state": "Odisha",
+  "country": "India",
+  "address": "Plot No. 42, Jaydev Vihar Square, Bhubaneswar, Odisha - 751013",
+  "phone": "+91-9437000000",
+  "phone2": "+91-6742000000",
+  "email": "info@rnfutureforge.com",
+  "email2": "projects@rnfutureforge.com",
+  "whatsapp": "919437000000",
+  "website": "www.rnfutureforge.com",
+  "workingHours": {
+    "weekdays": "Monday – Saturday: 9:00 AM – 6:30 PM",
+    "sunday": "Sunday: By Appointment Only"
+  },
+  "social": {
+    "linkedin": "https://linkedin.com/company/rn-futureforge",
+    "facebook": "https://facebook.com/rnfutureforge",
+    "instagram": "https://instagram.com/rnfutureforge",
+    "youtube": "https://youtube.com/@rnfutureforge"
+  },
+  "vision": "To be the most trusted and innovative MEP engineering company in Eastern India, delivering sustainable, safe, and technically superior infrastructure solutions that transform communities and industries.",
+  "mission": "To provide precision-engineered plumbing, sanitation, and fire-safety solutions through cutting-edge technology, skilled craftsmanship, and unwavering commitment to quality — ensuring every project we undertake meets the highest standards of safety, efficiency, and durability.",
+  "values": [
+    {
+      "id": 1,
+      "title": "Engineering Integrity",
+      "description": "We adhere to the highest technical standards and ethical practices in every project we undertake.",
+      "icon": "Shield"
+    },
+    {
+      "id": 2,
+      "title": "Innovation First",
+      "description": "We continuously adopt the latest engineering technologies and methodologies to deliver superior outcomes.",
+      "icon": "Lightbulb"
+    },
+    {
+      "id": 3,
+      "title": "Safety Above All",
+      "description": "Safety is non-negotiable. We ensure every system we install protects lives and property.",
+      "icon": "AlertTriangle"
+    },
+    {
+      "id": 4,
+      "title": "Client Partnership",
+      "description": "We build long-term relationships through transparent communication, on-time delivery, and post-project support.",
+      "icon": "Handshake"
+    },
+    {
+      "id": 5,
+      "title": "Sustainable Engineering",
+      "description": "We design systems that minimize water wastage, reduce energy consumption, and support environmental goals.",
+      "icon": "Leaf"
+    },
+    {
+      "id": 6,
+      "title": "Excellence in Execution",
+      "description": "From planning to commissioning, we maintain zero-compromise standards across every phase of delivery.",
+      "icon": "Award"
+    }
+  ],
+  "stats": [
+    { "value": 150, "suffix": "+", "label": "Projects Completed" },
+    { "value": 80, "suffix": "+", "label": "Happy Clients" },
+    { "value": 12, "suffix": "+", "label": "Years of Experience" },
+    { "value": 8, "suffix": "", "label": "States Served" }
+  ],
+  "timeline": [
+    {
+      "year": "2012",
+      "title": "Company Founded",
+      "description": "RN FUTUREFORGE Engineering Pvt. Ltd. was established in Bhubaneswar with a mission to deliver world-class MEP engineering services in Odisha."
+    },
+    {
+      "year": "2014",
+      "title": "First Major Institutional Project",
+      "description": "Successfully completed plumbing and sanitation works for a leading educational institution in Cuttack, marking our entry into institutional projects."
+    },
+    {
+      "year": "2016",
+      "title": "Fire Fighting Division Launched",
+      "description": "Expanded our portfolio to include Fire Hydrant, Sprinkler, and Fire Alarm systems, becoming a full-spectrum MEP contractor."
+    },
+    {
+      "year": "2018",
+      "title": "ISO Certification Achieved",
+      "description": "Received ISO 9001:2015 certification for Quality Management Systems, reinforcing our commitment to engineering excellence."
+    },
+    {
+      "year": "2020",
+      "title": "100+ Projects Milestone",
+      "description": "Crossed the landmark of 100 successfully completed projects across Odisha, Jharkhand, and West Bengal."
+    },
+    {
+      "year": "2022",
+      "title": "Government Sector Entry",
+      "description": "Secured major contracts with Odisha government bodies including IDCO, OHPC, and municipal corporations across the state."
+    },
+    {
+      "year": "2024",
+      "title": "Expansion & Growth",
+      "description": "Expanded operations to new states, strengthened our technical team, and adopted BIM-based engineering for large-scale projects."
+    }
+  ],
+  "director": {
+    "name": "Mr. Rajesh Nayak",
+    "designation": "Managing Director & Chief Engineer",
+    "message": "At RN FUTUREFORGE Engineering, we don't just install systems — we engineer safety, efficiency, and longevity into every structure we work on. Our team of dedicated engineers and technicians brings deep technical expertise combined with a genuine passion for quality. Over the past 12 years, we have had the privilege of working on landmark projects across Eastern India, earning the trust of government bodies, corporate clients, and institutional partners alike. Our commitment is simple: deliver engineering that stands the test of time, protects lives, and adds lasting value to every structure we touch. I invite you to experience the RN FUTUREFORGE difference.",
+    "image": "/images/director.jpg",
+    "experience": "25+ years in MEP Engineering"
+  },
+  "certifications": [
+    {
+      "id": 1,
+      "title": "ISO 9001:2015",
+      "description": "Quality Management Systems",
+      "body": "Bureau Veritas"
+    },
+    {
+      "id": 2,
+      "title": "NBC 2016 Compliant",
+      "description": "National Building Code of India",
+      "body": "BIS"
+    },
+    {
+      "id": 3,
+      "title": "CPWD Empanelled",
+      "description": "Central Public Works Department",
+      "body": "Government of India"
+    },
+    {
+      "id": 4,
+      "title": "ORERA Registered",
+      "description": "Odisha Real Estate Regulatory Authority",
+      "body": "Government of Odisha"
+    }
+  ],
+  "industries": [
+    { "id": 1, "name": "Commercial", "icon": "Building2", "description": "IT parks, malls, office complexes" },
+    { "id": 2, "name": "Residential", "icon": "Home", "description": "Apartments, villas, townships" },
+    { "id": 3, "name": "Industrial", "icon": "Factory", "description": "Manufacturing plants, warehouses" },
+    { "id": 4, "name": "Institutional", "icon": "School", "description": "Hospitals, schools, universities" },
+    { "id": 5, "name": "Infrastructure", "icon": "Construction", "description": "Airports, metro, highways" },
+    { "id": 6, "name": "Hospitality", "icon": "Hotel", "description": "Hotels, resorts, convention centers" }
+  ],
+  "whyChooseUs": [
+    {
+      "id": 1,
+      "title": "12+ Years of Proven Excellence",
+      "description": "Over a decade of delivering complex MEP projects across Eastern India with zero major failures.",
+      "icon": "Trophy"
+    },
+    {
+      "id": 2,
+      "title": "Certified Engineering Team",
+      "description": "Our team includes licensed plumbing engineers, fire safety consultants, and certified MEP specialists.",
+      "icon": "GraduationCap"
+    },
+    {
+      "id": 3,
+      "title": "End-to-End Execution",
+      "description": "From concept design to installation, testing, commissioning, and post-handover support — all under one roof.",
+      "icon": "CheckCircle"
+    },
+    {
+      "id": 4,
+      "title": "NBC & IS Code Compliance",
+      "description": "Every system is designed and installed in strict compliance with NBC 2016, IS codes, and local authority norms.",
+      "icon": "FileCheck"
+    },
+    {
+      "id": 5,
+      "title": "On-Time Delivery",
+      "description": "We pride ourselves on meeting project deadlines without compromising on quality or safety standards.",
+      "icon": "Clock"
+    },
+    {
+      "id": 6,
+      "title": "Competitive Pricing",
+      "description": "Transparent, value-for-money pricing with detailed BOQs and no hidden costs — ever.",
+      "icon": "DollarSign"
+    }
+  ],
+  "process": [
+    {
+      "step": 1,
+      "title": "Site Assessment",
+      "description": "Detailed site survey, load calculation, and technical feasibility study to understand project requirements."
+    },
+    {
+      "step": 2,
+      "title": "Engineering Design",
+      "description": "Preparation of detailed layout drawings, BOQs, specifications, and AutoCAD/BIM-based design documents."
+    },
+    {
+      "step": 3,
+      "title": "Client Approval",
+      "description": "Presentation of design proposals, cost estimates, and project schedule for client review and approval."
+    },
+    {
+      "step": 4,
+      "title": "Material Procurement",
+      "description": "Sourcing of high-quality, brand-approved materials from certified suppliers and manufacturers."
+    },
+    {
+      "step": 5,
+      "title": "Installation & Execution",
+      "description": "Skilled site teams execute installation works following approved drawings and quality checklists."
+    },
+    {
+      "step": 6,
+      "title": "Testing & Commissioning",
+      "description": "Comprehensive pressure testing, performance validation, and formal handover with operation manuals."
+    }
+  ],
+  "mapEmbedUrl": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3741.9!2d85.8315!3d20.2961!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3a1909d2d5170aa5%3A0xfc580e2b68b33fa8!2sBhubaneswar%2C%20Odisha!5e0!3m2!1sen!2sin!4v1620000000000!5m2!1sen!2sin"
+}

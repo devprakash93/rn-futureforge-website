@@ -1,0 +1,47 @@
+[
+  {
+    "id": 1,
+    "name": "Suresh Panda",
+    "designation": "Chief Engineer",
+    "company": "IDCO, Odisha",
+    "rating": 5,
+    "review": "RN FUTUREFORGE delivered exceptional fire fighting and plumbing works for our commercial tower project. Their technical expertise, adherence to safety codes, and timely execution made them stand out. We'll definitely work with them again.",
+    "image": "/images/testimonials/client1.jpg"
+  },
+  {
+    "id": 2,
+    "name": "Dr. Amitabh Rath",
+    "designation": "Hospital Administrator",
+    "company": "Kalinga Institute of Medical Sciences",
+    "rating": 5,
+    "review": "The fire protection retrofit they executed for our hospital was flawless. They coordinated perfectly with ongoing hospital operations and obtained the Fire NOC without any issues. Highly professional team.",
+    "image": "/images/testimonials/client2.jpg"
+  },
+  {
+    "id": 3,
+    "name": "Ranjit Mishra",
+    "designation": "Project Director",
+    "company": "Brigade Enterprises",
+    "rating": 5,
+    "review": "We engaged RN FUTUREFORGE for our 500-unit township project, and their performance was outstanding. Complete MEP works delivered on schedule, with excellent quality and zero rework. A truly reliable partner.",
+    "image": "/images/testimonials/client3.jpg"
+  },
+  {
+    "id": 4,
+    "name": "Priya Nanda",
+    "designation": "Facility Manager",
+    "company": "Infosys, Bhubaneswar",
+    "rating": 5,
+    "review": "RN FUTUREFORGE handled our campus MEP works with great attention to detail. Their engineers are technically sound and the project was executed with minimal disruption to our campus operations.",
+    "image": "/images/testimonials/client4.jpg"
+  },
+  {
+    "id": 5,
+    "name": "Bijay Kumar Sahu",
+    "designation": "Executive Engineer",
+    "company": "PWD, Govt. of Odisha",
+    "rating": 4,
+    "review": "Competent and professional team. They understood government project requirements well — proper documentation, BOQ compliance, and strict adherence to CPWD specifications. Recommended for government projects.",
+    "image": "/images/testimonials/client5.jpg"
+  }
+]

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url><loc>https://www.rnfutureforge.com/</loc><priority>1.0</priority><changefreq>weekly</changefreq></url>
+  <url><loc>https://www.rnfutureforge.com/about</loc><priority>0.8</priority><changefreq>monthly</changefreq></url>
+  <url><loc>https://www.rnfutureforge.com/services</loc><priority>0.9</priority><changefreq>monthly</changefreq></url>
+  <url><loc>https://www.rnfutureforge.com/services/plumbing-systems</loc><priority>0.9</priority><changefreq>monthly</changefreq></url>
+  <url><loc>https://www.rnfutureforge.com/services/sanitation-drainage</loc><priority>0.9</priority><changefreq>monthly</changefreq></url>
+  <url><loc>https://www.rnfutureforge.com/services/fire-fighting-systems</loc><priority>0.9</priority><changefreq>monthly</changefreq></url>
+  <url><loc>https://www.rnfutureforge.com/projects</loc><priority>0.8</priority><changefreq>weekly</changefreq></url>
+  <url><loc>https://www.rnfutureforge.com/clients</loc><priority>0.7</priority><changefreq>monthly</changefreq></url>
+  <url><loc>https://www.rnfutureforge.com/careers</loc><priority>0.7</priority><changefreq>monthly</changefreq></url>
+  <url><loc>https://www.rnfutureforge.com/blog</loc><priority>0.8</priority><changefreq>weekly</changefreq></url>
+  <url><loc>https://www.rnfutureforge.com/contact</loc><priority>0.8</priority><changefreq>monthly</changefreq></url>
+</urlset>
